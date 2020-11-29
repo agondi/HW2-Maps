@@ -1,8 +1,8 @@
-# Maps194
+# HW2-Maps
 
 ## *Amita Gondi*
 
-**Maps194** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
+**Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
 Time spent: **10** hours spent in total
 
@@ -41,4 +41,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-# HW2-Maps
+
